@@ -1,0 +1,10 @@
+azs.db
+examples/
+.fingerprint/
+build/
+incremental/
+deps/
+.cargo-lock
+azs_local_server_rust.d
+azs_db.db-shm
+azs_db.db-wal

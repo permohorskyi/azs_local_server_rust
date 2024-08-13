@@ -1,0 +1,3 @@
+[submodule "azs_site"]
+	path = azs_site
+	url = https://github.com/permohorskyi/azs_site.git
